@@ -2,7 +2,7 @@
 
 I strongly believe this AndroGoat will help many people to learn Android Application Security Testing.
 
-***Happy learning***
+***Happy learning*** 
 
 Vulnerabilities covered in this app:
 
